@@ -1,0 +1,9 @@
+{
+  "name": "spotlight-ai-studio",
+  "version": "1.0.0",
+  "description": "AI Creative Studio - Video and Image Generation",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  }
+}
